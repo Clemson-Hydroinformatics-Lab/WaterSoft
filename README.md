@@ -1,6 +1,6 @@
-# WaterSoftHack
+# WaterSoft
 
-Welcome to **WaterSoftHack** — a curated training package focused on advancing hydrologic systems using modern technologies. This repository serves as a landing page and introduction to the **WaterSoft Package**, developed as part of the WaterSoftHack training program.
+Welcome to **WaterSoft** — a curated training package focused on advancing hydrologic systems using modern technologies. This repository serves as a landing page and introduction to the **WaterSoft Package**, developed as part of the WaterSoftHack training program.
 
 ---
 
